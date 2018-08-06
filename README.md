@@ -107,19 +107,18 @@ $ brew cask install google-chrome
 @@||www.wired.com/$document
 @@||public-api.wordpress.com/$document
 @@||fr.gravatar.com/$document
+@@||mixmax.com/$document
 www.blogger.com##SPAN[class="gb_yb"]
-www.scribens.fr##DIV[class="col-lg-12 col-md-12 text-center"]
-www.scribens.fr##NAV[class="navbar navbar-default"]
-www.scribens.fr##IMG[src="images/pub/Pub_Scribens_En.png"]
+bonpatron.com##DIV[id="top"]
+bonpatron.com##TD[id="topbanner"]
+bonpatron.com##DIV[class="guidetoc"]
+www.scribens.fr##DIV[id="Titre"][class="row main-Title"]
+www.scribens.fr##HEADER[class="menu-header navbar-fixed-top"]
 www.tousaurestaurant.com##DIV[class="logo_wrapper"]
 www.silksoftware.com##HEADER[id="masthead"][class="site-header"]
-bonpatron.com##DIV[id="top"]
-www.scribens.fr##DIV[id="_adr_abp_iframe_1"][class="_adr_abp_iframe"]
-www.scribens.fr##DIV[id="_adr_abp_iframe_3"][class="_adr_abp_iframe"]
 www.coinwarz.com##IFRAME[src="https://refbanners.website/I?tag=d_29508m_1855c_&site=29508&ad=1855"]
 www.coinwarz.com##IFRAME[id="takeoverRight"]
 www.coinwarz.com##IFRAME[id="takeoverLeft"]
-www.scribens.fr##IFRAME[src="//delivery.adrecover.com/recover.html#packetId=00000001-fddb685a-c7cf-4dc0-b8b9-cc93ecdbc922&url=https%3A%2F%2Fwww.scribens.fr%2F&siteId=21931&pageGroup=HOME_ADRECOVER_0&height=90&width=728&networkProps={\"name\":\"criteo\",\"active\":1,\"apSection\":\"1\"}"]
 ```
   * [uMatrix](https://chrome.google.com/webstore/detail/umatrix/ogfcmafjalglgifnmanfmnieipoejdcf)
   * [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg)
